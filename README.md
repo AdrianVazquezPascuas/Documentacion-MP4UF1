@@ -3,7 +3,8 @@
 # Para crear encabezados, máximo de 6, cuantos más # más pequeña será la letra.
 
 **	Hace la letra negrita.
-"*"	Hace la letra cursiva.
+
+<p>*	Hace la letra cursiva.</p>
 
 ~~	Hace la letra tachada.
 
