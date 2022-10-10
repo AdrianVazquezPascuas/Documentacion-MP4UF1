@@ -5,7 +5,7 @@
 **	Hace la letra negrita.
 
 *	Hace la letra cursiva.
-*	
+
 ~~	Hace la letra tachada.
 
 ***	Todo el texto en negrita y cursiva.
