@@ -1,10 +1,15 @@
 # Documentacion-MP4UF1
    <h2>Markdown</h2>
 # Para crear encabezados, máximo de 6, cuantos más # más pequeña será la letra.
+
 **	Hace la letra negrita.
+
 *	Hace la letra cursiva.
+*	
 ~~	Hace la letra tachada.
+
 ***	Todo el texto en negrita y cursiva.
+
 ```
 Texto	Copia todo lo que hay dentro.
 ```
