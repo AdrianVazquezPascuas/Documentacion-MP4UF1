@@ -5,9 +5,18 @@
 <p>*	Hace la letra cursiva.</p>
 <p>~~	Hace la letra tachada.</p>
 <p>***	Todo el texto en negrita y cursiva.</p>
-```
+<p>```
 Texto	Copia todo lo que hay dentro.
-```
+``` </p>
 <p>> 	Para citar el texto.</p>
 <p>[ ] ( )	Crear un enlace en el texto del enlace entre corchetes [ ],y la URL entre paréntesis ( ).</p>
 <p>| -- | 	Puede crear tablas con barras verticales | y guiones -.</p>
+Ejemplo:
+| Aplicaciones | Visto |
+|--------------| ---------------|
+| Google Docs | ✔️ |
+| Google Slides | ✔️ |
+| Google Sheets | ✔️ |
+|Google Calendar | 📆 |
+|Google Meet | 💻 |
+| ... | ... |
