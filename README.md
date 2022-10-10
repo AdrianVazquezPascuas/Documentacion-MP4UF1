@@ -48,6 +48,7 @@ Se utiliza la exclamación al principio y el enlace no será otro que la ubicaci
 <p>![Texto alternativo](/ruta/a/la/imagen.jpg)</p>
 
 Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
+
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1. 
 
 Para que se ignore el markdown lo que debemos de hacer es utilizar la barra invertida (\).
