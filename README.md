@@ -43,3 +43,7 @@ Ejemplo:
 |Google Calendar | 📆 |
 |Google Meet | 💻 |
 | ... | ... |
+
+Se utiliza la exclamación al principio y el enlace no será otro que la ubicación de la imagen.
+![Texto alternativo](/ruta/a/la/imagen.jpg)
+
