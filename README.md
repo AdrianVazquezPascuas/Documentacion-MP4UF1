@@ -10,7 +10,7 @@
 
 ***	Todo el texto en negrita y cursiva.
 
-"```
+" ```
 Texto	Copia todo lo que hay dentro.
 ``` "
 
