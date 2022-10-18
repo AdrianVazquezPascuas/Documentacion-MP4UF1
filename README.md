@@ -62,7 +62,7 @@ Para que se ignore el markdown lo que debemos de hacer es utilizar la barra inve
     <title>Mi pagina de prueba</title>
   </head>
   <body>
-    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
+    <img src="a" alt="Mi imagen de prueba">
   </body>
 </html>
 
