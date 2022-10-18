@@ -52,3 +52,17 @@ Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de 
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1. 
 
 Para que se ignore el markdown lo que debemos de hacer es utilizar la barra invertida (\).
+
+<h2>HTML</h2>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mi pagina de prueba</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
+  </body>
+</html>
+
