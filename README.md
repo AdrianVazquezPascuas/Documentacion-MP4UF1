@@ -54,5 +54,9 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 Para que se ignore el markdown lo que debemos de hacer es utilizar la barra invertida (\).
 
 <h2>HTML</h2>
+HTML no es un lenguaje de programación; es un lenguaje de marcado que define la estructura de tu contenido.
+Si quieres especificar que se trata de un párrafo, podrías encerrar el texto con la etiqueta de párrafo (<p>):
+<p>Esto es un parrafo.</p>
+
 
 
