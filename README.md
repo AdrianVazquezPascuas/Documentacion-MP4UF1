@@ -55,14 +55,4 @@ Para que se ignore el markdown lo que debemos de hacer es utilizar la barra inve
 
 <h2>HTML</h2>
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Mi pagina de prueba</title>
-  </head>
-  <body>
-    <img src="a" alt="Mi imagen de prueba">
-  </body>
-</html>
 
