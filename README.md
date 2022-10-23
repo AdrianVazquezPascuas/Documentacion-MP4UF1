@@ -67,9 +67,22 @@ Las partes principales del elemento son:
 
 4.El elemento: la etiqueta de apertura, más la etiqueta de cierre, más el contenido equivale al elemento.
 
+
 El elemento de imagen HTML (img) representa una imagen en el documento.
 
 img src="link.png" alt="Ejemplo"
 
+
+El elemento de encabezado va desde h1 hasta h6, donde h1 es el titulo principal y h6 es un sub-subtitulo.
+
+
+Listas:
+Las listas desordenadas son aquellas en las que el orden de los items no es relevante, como en una lista de compras. Estas son encerradas en un elemento (ul).
+Las listas ordenadas son aquellas en las que el orden sí es relevante, como en una receta. Estas son encerradas en un elemento (ol).
+Cada elemento de la lista se coloca dentro de un elemento (li).
+
+
+
+   
 
 
