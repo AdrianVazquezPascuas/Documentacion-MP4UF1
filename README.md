@@ -16,7 +16,7 @@ Texto	Copia todo lo que hay dentro.
 
 Ejemplo:
 
-```html
+``` html
     <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,8 +55,21 @@ Para que se ignore el markdown lo que debemos de hacer es utilizar la barra inve
 
 <h2>HTML</h2>
 HTML no es un lenguaje de programación; es un lenguaje de marcado que define la estructura de tu contenido.
-Si quieres especificar que se trata de un párrafo, podrías encerrar el texto con la etiqueta de párrafo (<p>):
+Si quieres especificar que se trata de un párrafo, podrías encerrar el texto con la etiqueta de párrafo (p):
 <p>Esto es un parrafo.</p>
+
+Las partes principales del elemento son:
+1.La etiqueta de apertura: consiste en el nombre del elemento (en este caso, p), encerrado por < y >.
+
+2.La etiqueta de cierre: es igual que la etiqueta de apertura, excepto que incluye una barra de cierre (/) antes del nombre de la etiqueta.
+
+3.El contenido: este es el contenido del elemento, que en este caso es sólo texto.
+
+4.El elemento: la etiqueta de apertura, más la etiqueta de cierre, más el contenido equivale al elemento.
+
+El elemento de imagen HTML (img) representa una imagen en el documento.
+
+img src="link.png" alt="Ejemplo"
 
 
 
