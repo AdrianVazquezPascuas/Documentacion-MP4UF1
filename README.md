@@ -2,6 +2,9 @@
 
    <h2>Github</h2>
 Crear un repositorio
+![img](./img/1.png)
+![img](./img/2.png)
+![img](./img/3.png)
 
    <h2>Markdown</h2>
 # Para crear encabezados, máximo de 6, cuantos más # más pequeña será la letra.
