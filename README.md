@@ -1,9 +1,14 @@
 # Documentacion-MP4UF1
 
    <h2>Github</h2>
-Crear un repositorio
+   
+### Crear un repositorio
+
+Lo primero que debemos de hacer en entrar en Github e ir a Repositorios, a continuación le damos a New.
 ![img](./img/1.png)
+Ponemos el nombre al repositorio.
 ![img](./img/2.png)
+Cuando hayamos puesto el nombre al repositorio le damos a crear repositorio.
 ![img](./img/3.png)
 
    <h2>Markdown</h2>
