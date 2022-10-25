@@ -10,9 +10,10 @@
 
 ***	Todo el texto en negrita y cursiva.
 
-" ```
-Texto	Copia todo lo que hay dentro.
-``` "
+Texto	Copia todo lo que hay dentro usando (``` al abrir y cerrar).
+```
+Texto de prueba
+```
 
 Ejemplo:
 
@@ -69,9 +70,9 @@ Las partes principales del elemento son:
 
 
 El elemento de imagen HTML (img) representa una imagen en el documento.
-
+```
 img src="link.png" alt="Ejemplo"
-
+```
 
 El elemento de encabezado va desde h1 hasta h6, donde h1 es el titulo principal y h6 es un sub-subtitulo.
 
