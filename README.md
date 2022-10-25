@@ -3,13 +3,32 @@
    <h2>Github</h2>
    
 ### Crear un repositorio
-
 Lo primero que debemos de hacer en entrar en Github e ir a Repositorios, a continuación le damos a New.
 ![img](./img/1.png)
 Ponemos el nombre al repositorio.
 ![img](./img/2.png)
 Cuando hayamos puesto el nombre al repositorio le damos a crear repositorio.
 ![img](./img/3.png)
+Ahora que ya hemos creado el repositorio podemos ir modificandolo donde se encuentra el lapiz y en la parte superior salen los cambios. realizados.
+![img](./img/4.png)
+
+### Pasar repositorio a local
+Tenemos que ir a Visual Studio Code.
+![img](./img/5.png)
+Le damos a clonar el repositorio Git.
+![img](./img/6.png)
+Selecionamos el repositorio que habiamos creado antes.
+![img](./img/7.png)
+Ahora selecionamos donde queremos que se guarde en local.
+![img](./img/8.png)
+Entramos y ponemos algo para que cuando lo subamos se vea el cambio.
+![img](./img/9.png)
+
+```
+Lo primero que tenemos que poner es git add . para seleccionar todo, git commit -m "", entre las comillas ponemos como queremos que se guarde el cambio y por ultimo git push para que se suba el cambio
+```
+Ahora que lo hemos subido vemos que se ha hecho correctamente en el repositorio de Github.
+![img](./img/10.png)
 
    <h2>Markdown</h2>
 # Para crear encabezados, máximo de 6, cuantos más # más pequeña será la letra.
