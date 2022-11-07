@@ -130,7 +130,7 @@ Las listas ordenadas son aquellas en las que el orden sí es relevante, como en 
 Cada elemento de la lista se coloca dentro de un elemento (li).
 
 <h2>Github</h2>
-Selectores
+<b>Selectores:</b>
 Un selector es un conjunto de reglas de estilos aplicadas múltiples elementos de la hoja html. Hay 3 tipos:
 
    -Id: Se define mediante una # justo antes del nombre de la id.
