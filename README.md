@@ -140,19 +140,20 @@ Un selector es un conjunto de reglas de estilos aplicadas múltiples elementos d
 }
 ```
 
-   -Clase:
+   -Clase: Se define mediante un . justo antes del nombre de la clase.
 ```
 .clase{
 /* Estilos */
 }
 ```
 
-   -Elementos:
+   -Elementos: Aplica estilo a todos los elementos que tengan la etiqueta html indicada.
 ```
 div{
 /* Estilos */
 }
 ```
+
 
    
 
