@@ -129,7 +129,30 @@ Las listas desordenadas son aquellas en las que el orden de los items no es rele
 Las listas ordenadas son aquellas en las que el orden sí es relevante, como en una receta. Estas son encerradas en un elemento (ol).
 Cada elemento de la lista se coloca dentro de un elemento (li).
 
+<h2>Github</h2>
+Selectores
+Un selector es un conjunto de reglas de estilos aplicadas múltiples elementos de la hoja html. Hay 3 tipos:
 
+   -Id: Se define mediante una # justo antes del nombre de la id.
+```
+#id{
+/* Estilos */
+}
+```
+
+   -Clase:
+```
+.clase{
+/* Estilos */
+}
+```
+
+   -Elementos:
+```
+div{
+/* Estilos */
+}
+```
 
    
 
