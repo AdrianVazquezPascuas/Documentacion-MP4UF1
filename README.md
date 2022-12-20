@@ -154,7 +154,19 @@ div{
 }
 ```
 
+<h2>CSS</h2>
+CSS son las siglas en inglés de Cascading Style Sheets, que significa «hojas de esilo en cascada». Es un lenguaje que se usa para estilizar elementos escritos en un lenguaje de marcado como HTML.
+Por ejemplo:
+```
+<p>Esto es un parrafo.</p>
+```
 
-   
+```
+p {
+ color: blue;
+ text-weight: bold;
+}
+```
+Al aplicar estos estilos todos los elementos <p> aparecerán en color azul y en negrita.
 
 
