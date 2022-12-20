@@ -185,7 +185,7 @@ Ejemplo: #encabezado se aplicará a cualquier elemento que tenga el ID "encabeza
 ### Selector universal
 Se utiliza para seleccionar todos los elementos de la página.
 
-## PROPIEDADES
+## Propiedades
 
 ```
 Propiedades de fuentes
@@ -214,4 +214,23 @@ Propiedades de texto
    Text Alignment (Alineación de texto)
    Text Indentation (Sangría de texto)
    Line Height (Altura de línea)
+```
+
+## Valores
+```
+Colores:
+   La propiedad css “color:” + el nombre del color
+   La propiedad css “color:” + valor hexadecima
+   La propiedad css “color:” + valor rgb
+   
+Cadena de textos:
+   Es el del valor atribuido a la propiedad font-family en nuestro documento CSS.
+   Ejemplo: font-family: ‘Montserrat’, sans-serif;
+
+Unidades de medida:
+   Pixeles:px
+   Porcentaje:%
+
+Imagenes:
+   Se utiliza en la propiedad CSS background-image con una funcion url(), donde entre los parentesis va la direccion de la imagen.
 ```
