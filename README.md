@@ -167,6 +167,6 @@ p {
  text-weight: bold;
 }
 ```
-Al aplicar estos estilos todos los elementos <p> aparecerán en color azul y en negrita.
+Al aplicar estos estilos todos los elementos '<p>' aparecerán en color azul y en negrita.
 
 
