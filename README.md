@@ -167,6 +167,19 @@ p {
  text-weight: bold;
 }
 ```
-Al aplicar estos estilos todos los elementos '<p>' aparecerán en color azul y en negrita.
+Al aplicar estos estilos todos los elementos (p) aparecerán en color azul y en negrita.
+
+## Selectores básicos
+### Selector de tipo
+Selecciona todos los elementos que coinciden con el nombre del elemento especificado.
+Ejemplo: h1 se aplicará a cualquier elemento h1.
+
+### Selector de clase
+Selecciona todos los elementos que tienen el atributo de class especificado.
+Ejemplo: .footer seleccionará cualquier elemento que tenga la clase "footer".
+
+### Selector de ID
+Selecciona un elemento basándose en el valor de su atributo id. Solo puede haber un elemento con un determinado ID dentro de un documento.
+Ejemplo: #encabezado se aplicará a cualquier elemento que tenga el ID "encabezado".
 
 
