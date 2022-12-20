@@ -232,5 +232,5 @@ Unidades de medida:
    Porcentaje:%
 
 Imagenes:
-   Se utiliza en la propiedad CSS background-image con una funcion url(), donde entre los parentesis va la direccion de la imagen.
+   Se utiliza en la propiedad CSS background-image con una valor url(), donde entre los parentesis va la direccion de la imagen.
 ```
