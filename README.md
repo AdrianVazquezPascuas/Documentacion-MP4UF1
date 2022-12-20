@@ -188,7 +188,7 @@ Se utiliza para seleccionar todos los elementos de la página.
 ## PROPIEDADES
 
 ```
-### Propiedades de fuentes
+<b>Propiedades de fuentes</b>
 Font Family (Familia de fuente)
 Font Style (Estilo de fuente)
 Font Variant (Variante de fuente )
@@ -196,7 +196,7 @@ Font Weight (Peso de fuente)
 Font Size (Tamaño de fuente)
 Font (Fuente)
 
-### Propiedades de color y fondo
+Propiedades de color y fondo
 Color
 Background Color (Color de fondo)
 Background Image (Imagen de fondo)
@@ -205,7 +205,7 @@ Background Attachment (Fijación de fondo)
 Background Position (Posición del fondo)
 Background (Fondo)
 
-### Propiedades de texto
+Propiedades de texto
 Word Spacing (Espaciamiento de palabras)
 Letter Spacing (Espaciamiento de letras)
 Text Decoration (Decoración de texto)
